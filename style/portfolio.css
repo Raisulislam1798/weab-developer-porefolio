@@ -118,6 +118,10 @@ nav ul{
     background-color: #FFF8F3;
 }
 
+.text-center{
+    text-align: center;
+}
+
 
 
 main{
@@ -153,4 +157,25 @@ main>section>div{
     font-weight: bold;
     color:#474747 ;
 }
+
+.skill-title{
+    font-size:  20px;
+    font-weight: bold;
+
+}
+
+div.skills{
+    background-color: #faf2eb;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.gap{
+    margin-top: 200px;
+}
+
+
+
+
+
 
