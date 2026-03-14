@@ -108,9 +108,12 @@ nav ul{
 
 }
 .section-title{
+  
     font-size: 35px;
-    font-weight: bold;
+    line-height: 48px;
     color: #181818;
+    
+
 }
 
 .bg{
@@ -174,7 +177,123 @@ div.skills{
     margin-top: 200px;
 }
 
+.resume-container{
+    gap: 20px;
+}
+.resume-column-title{
+   
+font-weight: 700;
+font-size: 30px;
+color: #474747;
+}
 
+.experience-title{
+ 
+font-weight: 700;
+font-size: 25px;
+color: #474747;
+
+}
+
+.experience-sub-title{
+font-weight: 600;
+font-size: 20px;
+color: #757575;
+}
+
+.experience-description{
+font-weight: 400;
+font-size: 16px;
+color: #757575;
+
+
+}
+
+.button-cv{
+    justify-content: center;
+    align-items: center;
+}
+.btn-cv{
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+
+.footer-column{
+    width: 50%;
+}
+
+footer input[type="text"]{
+    height: 35px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 50%;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+     border: none;
+}
+footer input[type="email"]{
+    height: 35px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 50%;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+     border: none;
+}
+textarea {
+    height: 100px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 50%;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+     border: none;
+}
+
+footer input[type="submit"]{
+     background-color: #FD6E0A;
+    font-size: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+/* footer input[type="submit"]{
+    height: 35px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 50%;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+} */
+
+.section{
+
+font-weight: 700;
+font-size: 35px;
+color: #181818;
+
+
+}
+
+
+.icon{
+    justify-content: space-between;
+}
 
 
 
